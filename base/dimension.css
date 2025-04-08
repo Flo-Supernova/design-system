@@ -1,0 +1,30 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  /* No radius */
+  --dimension-border-radius-none: 0px;
+  --dimension-border-radius-small: 3px;
+  --dimension-border-radius-default: 5px;
+  --dimension-border-radius-medium: 8px;
+  --dimension-border-radius-large: 12px;
+  /* Essentially a circle */
+  --dimension-border-radius-full: 999px;
+  --dimension-spacing-0: 0px;
+  --dimension-spacing-2: 2px;
+  --dimension-spacing-4: 4px;
+  --dimension-spacing-8: 8px;
+  --dimension-spacing-12: 12px;
+  --dimension-spacing-16: 16px;
+  --dimension-spacing-20: 20px;
+  --dimension-spacing-24: 24px;
+  --dimension-spacing-28: 28px;
+  --dimension-spacing-32: 32px;
+  --dimension-spacing-36: 36px;
+  --dimension-spacing-40: 40px;
+  --dimension-spacing-semantic-stack-gap: 1px;
+  --dimension-opacity-disabled: 50px;
+  --dimension-shadow-focus-ring-width: 3px;
+}
