@@ -4,7 +4,5 @@
  */
 
 :root {
-  --dimensionspacingsemanticstackgap: 1px;
-  --dimensionshadowfocusringwidth: 3px;
-  --dimensionfontweightbold: 640px;
+  --lineheighttitle1lineheight: 40px;
 }

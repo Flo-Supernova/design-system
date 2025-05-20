@@ -3,17 +3,17 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --colorforegroundneutralfaded: rgb(96, 105, 129);
+.theme-dark-d38a {
+  --colorforegroundneutralfaded: rgb(157, 168, 187);
   --colorforegroundplaceholder: rgb(127, 134, 148);
-  --colorbackgroundneutralhighlighted: rgb(24, 45, 102);
-  --colorbackgroundpagefaded: rgb(250, 250, 250);
+  --colorbackgroundneutralhighlighted: rgb(208, 226, 255);
+  --colorbackgroundpagefaded: rgb(9, 18, 42);
   --colorbackgroundcritical: rgb(226, 44, 44);
   --colorbackgroundpositive: rgb(17, 136, 80);
   --colorbackgroundblur: rgb(255, 255, 255);
   --colorbackgroundblurneutral: rgb(244, 245, 247);
   --colorbackgroundblurneutralhighlighted: rgb(236, 237, 240);
-  --colorborderneutralfaded: rgb(236, 238, 243);
+  --colorborderneutralfaded: rgb(34, 39, 58);
   --colorbordercriticalfaded: rgb(251, 213, 216);
   --colorborderpositivefaded: rgb(205, 237, 213);
   --colorborderupgradefaded: rgb(227, 219, 250);
@@ -242,22 +242,22 @@
   --colorsemanticsalesale30background: rgb(88, 105, 193);
   --colorsemanticsalesalecolor: rgb(183, 183, 183);
   --colordarkblue: rgb(255, 0, 0);
-  --colorforegroundneutral: var(--colorneutralneutral900);
-  --colorforegroundprimary: var(--colorprimaryprimary800);
+  --colorforegroundneutral: var(--colorwhite);
+  --colorforegroundprimary: var(--colorprimaryprimary500);
   --colorforegroundcritical: var(--colorredred600);
   --colorforegroundwarning: var(--colororangeorange600);
   --colorforegroundpositive: var(--colorgreengreen600);
   --colorforegroundupgrade: var(--colorpurplepurple600);
-  --colorforegrounddisabled: var(--colorneutralneutral500);
-  --colorbackgroundelevationbase: var(--colorwhite);
-  --colorbackgroundelevationraised: var(--colorwhite);
-  --colorbackgroundelevationoverlay: var(--colorwhite);
-  --colorbackgroundneutral: var(--colorneutralneutral200opaque);
-  --colorbackgroundneutralfaded: var(--colorneutralneutral100opaque);
-  --colorbackgroundpage: var(--colorwhite);
+  --colorforegrounddisabled: rgb(199, 205, 219);
+  --colorbackgroundelevationbase: var(--colorneutralneutral900);
+  --colorbackgroundelevationraised: var(--colorneutralneutral900);
+  --colorbackgroundelevationoverlay: var(--colorneutralneutral900);
+  --colorbackgroundneutral: rgb(208, 226, 255);
+  --colorbackgroundneutralfaded: rgb(208, 226, 255);
+  --colorbackgroundpage: rgb(4, 10, 30);
   --colorbackgroundprimary: var(--colorprimaryprimary800);
   --colorbackgroundprimaryhighlighted: var(--colorprimaryprimary700);
-  --colorbackgroundprimaryfaded: var(--colorprimaryprimary200);
+  --colorbackgroundprimaryfaded: rgb(0, 78, 225);
   --colorbackgroundcriticalhighlighted: var(--colorredred600);
   --colorbackgroundcriticalfaded: var(--colorredred100);
   --colorbackgroundwarning: var(--colororangeorange500);
@@ -267,8 +267,8 @@
   --colorbackgroundpositivefaded: var(--colorgreengreen100);
   --colorbackgroundupgrade: var(--colorpurplepurple600);
   --colorbackgroundupgradehighlighted: var(--colorpurplepurple700);
-  --colorbackgroundupgradefaded: var(--colorpurplepurple100);
-  --colorbackgrounddisabled: var(--colorneutralneutral200opaque);
+  --colorbackgroundupgradefaded: rgb(245, 242, 253);
+  --colorbackgrounddisabled: rgb(208, 226, 255);
   --colorbackgrounddisabledfaded: var(--colorneutralneutral100opaque);
   --colorbackgroundfocushighlight: var(--colorprimaryprimary400);
   --colorborderneutral: var(--colorneutralneutral500);
@@ -280,7 +280,7 @@
   --colorborderpositive: var(--colorgreengreen600);
   --colorborderupgrade: var(--colorpurplepurple700);
   --colorborderfocusfaded: var(--colorprimaryprimary400);
-  --coloronbackgroundneutral: var(--colorneutralneutral900);
+  --coloronbackgroundneutral: var(--colorwhite);
   --colorpersistentblack: var(--colorneutralneutral900);
   --colordecorativeblueforeground: var(--colorprimaryprimary600);
   --colordecorativebluebackground: var(--colorprimaryprimary200);
