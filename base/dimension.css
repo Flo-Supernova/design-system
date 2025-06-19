@@ -4,7 +4,30 @@
  */
 
 :root {
-  --dimensionspacingsemanticstackgap: 1px;
-  --dimensionshadowfocusringwidth: 3px;
-  --dimensionfontweightbold: 640px;
+  /* No radius */
+  --FloTestDimensionDimensionsBorderRadiusNone: 0px;
+  --FloTestDimensionDimensionsBorderRadiusSmall: 3px;
+  --FloTestDimensionDimensionsBorderRadiusDefault: 5px;
+  --FloTestDimensionDimensionsBorderRadiusMedium: 7px;
+  --FloTestDimensionDimensionsBorderRadiusLarge: 12px;
+  /* Essentially a circle */
+  --FloTestDimensionDimensionsBorderRadiusFull: 999px;
+  --FloTestDimensionDimensionsSpacing0: 0px;
+  --FloTestDimensionDimensionsSpacing2: 2px;
+  --FloTestDimensionDimensionsSpacing4: 4px;
+  --FloTestDimensionDimensionsSpacing8: 8px;
+  --FloTestDimensionDimensionsSpacing12: 12px;
+  --FloTestDimensionDimensionsSpacing16: 16px;
+  --FloTestDimensionDimensionsSpacing20: 20px;
+  --FloTestDimensionDimensionsSpacing24: 24px;
+  --FloTestDimensionDimensionsSpacing28: 28px;
+  --FloTestDimensionDimensionsSpacing32: 32px;
+  --FloTestDimensionDimensionsSpacing36: 36px;
+  --FloTestDimensionDimensionsSpacing40: 40px;
+  --FloTestDimensionDimensionsSpacingSemanticStackGap: 1px;
+  --FloTestDimensionDimensionsOpacityDisabled: 50px;
+  --FloTestDimensionDimensionsShadowFocusRingWidth: 3px;
+  --FloTestDimensionDimensionsDimensionsDefault: 36px;
+  --FloTestDimensionDimensionsDimensionsSmall: 28px;
+  --FloTestDimensionDimensionsDimensionsLarge: 44px;
 }
