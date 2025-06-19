@@ -1,0 +1,29 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --FloTestTypographyH1: 700 57px/64px "Roboto";
+  --FloTestTypographyH2: 700 43px/50px "Roboto";
+  --FloTestTypographyH3: 700 32px/40px "Roboto";
+  --FloTestTypographyH4: 700 24px/32px "Roboto";
+  --FloTestTypographyH5: 700 21px/29px "Roboto";
+  --FloTestTypographyLargeLead: 400 24px/32px "Roboto";
+  --FloTestTypographyMediumLead: 400 21px/29px "Roboto";
+  --FloTestTypographyButtonLabel: 400 21px/29px "Roboto";
+  --FloTestTypographyParagraph: 400 18px/26px "Roboto";
+  --FloTestTypographySmallParagraph: 400 16px/24px "Roboto";
+  --FloTestTypographyTinyParagraph: 400 12px/24px "Roboto";
+  --FloTestTypographySale: 700 24px/34px "Roboto";
+  --FloTestTypographyHeading1: 700 60px/72px "Inter";
+  --FloTestTypographyHeading2: 700 48px/64px "Inter";
+  --FloTestTypographyHeading3: 500 40px/48px "Inter";
+  --FloTestTypographySubtitle1: 400 28px/40px "Inter";
+  --FloTestTypographySubtitle2: 700 18px/28px "Inter";
+  --FloTestTypographyBody1Medium: 400 18px/28px "Inter";
+  --FloTestTypographyBody2Medium: 400 16px/24px "Inter";
+  --FloTestTypographyBody2SemiBold: 600 16px/24px "Inter";
+  --FloTestTypographyBody1SemiBold: 700 18px/28px "Inter";
+  --FloTestTypographyBody2Regular: 400 16px/24px "Inter";
+}
